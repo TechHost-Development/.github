@@ -10,4 +10,4 @@ Visit [opensource.techhost.live](https://opensource.techhost.live) to learn more
 
 ----
 
-CopyRight TechHost © 2021, All rights reserved.
+Copyright TechHost © 2021, All rights reserved.
