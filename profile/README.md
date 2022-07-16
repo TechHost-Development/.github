@@ -13,7 +13,7 @@ All of them made for our lovely community & people looking to join it 💖.
 
 Follow us on [Twiiter](https://www.techhost.live/r/twitter)
 <br>
-![Discord](Join our [Discord](https://www.techhost.live/r/discord)
+Join our [Discord](https://www.techhost.live/r/discord)
 <br>
 Subscribe on our [Youtube](https://www.techhost.live/r/youtube) Channel
 
