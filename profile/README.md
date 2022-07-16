@@ -2,12 +2,21 @@
 
 ## TechHost Development 
 
-Right now, open communities are building amazing software together, and there are excellent "good first issue" opportunities, if you're looking to get involved.
-* [Explore featured projects](https://opensource.techhost.live/projects/)
+Welcome to our GitHub Page! This is the place where we build our software & tools we use on a day-to-day basis 🙃, pretty cool isn't it?
+
+Although our team is small, we have been accomplishing some great things! We've made plenty of Discord Bots, Tools, Websites, you name it! 
+
+All of them made for our lovely community & people looking to join it 💖.
 
 
-Visit [opensource.techhost.live](https://opensource.techhost.live) to learn more!
+### Want to catch up on all of the latest updates?
+
+Follow us on [Twiiter](https://www.techhost.live/r/twitter)
+<br>
+![Discord](Join our [Discord](https://www.techhost.live/r/discord)
+<br>
+Subscribe on our [Youtube](https://www.techhost.live/r/youtube) Channel
 
 ----
 
-Copyright TechHost © 2021, All rights reserved.
+Copyright TechHost © 2020 - 2022, All rights reserved.
