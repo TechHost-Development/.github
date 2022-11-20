@@ -11,7 +11,7 @@ All of them made for our lovely community & people looking to join it 💖.
 
 ### Want to catch up on all of the latest updates?
 
-Follow us on [Twiiter](https://www.techhost.live/r/twitter)
+Follow us on [Twitter](https://twitter.com/TechHost3)
 <br>
 Join our [Discord](https://www.techhost.live/r/discord)
 <br>
